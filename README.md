@@ -27,7 +27,7 @@ The objective of this assignment was to develop a social robotics experiment tha
 ### Included Files:
 1. **`.crg` File**: The Choregraphe project file for Pepper’s application.
 2. **Video File (`.mp4`)**: A 1-2 minute edited video showcasing the interaction.
-3. **Google Form Link**: [Goodspeed Questionnaire Form](#) ([Replace with the actual link](https://docs.google.com/forms/d/e/1FAIpQLScFO41g2IAYW2GLc-_CgR-gfxhYsMMLRwREPIlKlkOx5nCKtA/viewform))
+3. **Google Form Link**: [Goodspeed Questionnaire Form](#) ([Goodspeed Questionnaire Form](https://docs.google.com/forms/d/e/1FAIpQLScFO41g2IAYW2GLc-_CgR-gfxhYsMMLRwREPIlKlkOx5nCKtA/viewform))
 4. **Report**: A concise document with:
    - Contributions of each team member.
    - Explanation of the application design and its correlation to perceived intelligence.
